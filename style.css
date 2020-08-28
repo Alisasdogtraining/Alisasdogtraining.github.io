@@ -1,0 +1,30 @@
+h1{
+  color: green;
+
+}
+
+body {
+  background-color: yellow;
+  text-align: center;
+  font-family: Ariel, Helvetica, Sans-Serif;
+}
+
+.container{
+width:60%;
+margin:auto;
+}
+img{
+  width:80%
+}
+h2{
+color: turquoise;
+}
+.foodheader{
+font-family: lobster
+}
+img:hover{
+  box-shadow:0 4px 8px 0 gray;
+}
+
+
+
